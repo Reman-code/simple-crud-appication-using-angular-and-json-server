@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "first",
+      "category": "Tacos",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "good",
+      "date": "2023-01-09T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "second",
+      "category": "Tacos",
+      "freshness": "Brand New",
+      "price": 23,
+      "comment": "bad",
+      "date": "2023-01-11T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "thrid",
+      "category": "Pizza",
+      "freshness": "Brand New",
+      "price": 34,
+      "comment": "good",
+      "date": "2023-01-02T18:30:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
